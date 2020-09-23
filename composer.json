@@ -1,10 +1,10 @@
 {
-    "name": "codicastudio/adminfieldagent",
+    "name": "codica-studio/adminfieldagent",
     "description": "A random Codica Studio package.",
     "keywords": [
         ""
     ],
-    "homepage": "https://github.com/codicastudio/adminfieldagent",
+    "homepage": "https://github.com/codica-studio/adminfieldagent",
     "license": "MIT",
     "authors": [
         {
