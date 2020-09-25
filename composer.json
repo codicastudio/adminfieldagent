@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/adminfieldagent",
+    "name": "codicastudio/field-agent",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/adminfieldagent",
+    "homepage": "https://github.com/codicastudio/field-agent",
     "license": "MIT",
     "authors": [
         {
@@ -30,6 +30,6 @@
     "config": {
         "sort-packages": true
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
